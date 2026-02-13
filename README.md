@@ -24,5 +24,5 @@ Pour assurer le code propre et conforme aux standards, les outils suivant peuven
 7. Vérifier que le projet fonctionne correctement et reste identique à l’original.
 
 ## Dépôt GitHub
-- Lien du dépôt : https://github.com/Syming2002/Exercice-Git-Agence-Immobiliere/tree/main
+- Lien du dépôt : https://github.com/Syming2002/Exercice-Git-Agence-Immobiliere
 
